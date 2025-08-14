@@ -1,3 +1,5 @@
+[![Join us on Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/ffbZyusxzK) [![Available on CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft-bedrock/scripts/run_commands_on_item_use)
+
 With RCoTu (Run Command on Item use) you can run **ANY** Command if a Player use (right click/hold down/...) a specific Item. It works also with Items from other Addons.
 
 Example: If a Player uses a Compass then the Player is teleported to the Spawn.
@@ -18,5 +20,6 @@ For example if you want to teleport someone who used a compass, you just need to
 
 <span style="color: red;"><br>**NOTE:**</span>
 - You need to activate Beta API in the Experimental Settings!
+
 
 ![BetaAPI Experimental Setting](https://api.mcpedl.com/storage/submissions/165965/images/11940-run-command-on-item-use_2.png)
