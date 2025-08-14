@@ -4,7 +4,7 @@
         "name": "RCoTu - Run Command on Item use",
         "description": "Run a Command on Item use",
         "uuid": "a936efa2-b925-9169-48f8-807ea620a0a1",
-        "version": [1, 1, 5],
+        "version": [1, 1, 6],
         "min_engine_version": [1, 17, 0]
     },
     "modules": [
@@ -30,4 +30,5 @@
             "version": "1.11.0"
         }
     ]
+
 }
